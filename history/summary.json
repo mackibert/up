@@ -4,18 +4,20 @@
     "url": "http://adapter.herzstiftung.de",
     "icon": "https://icons.duckduckgo.com/ip3/adapter.herzstiftung.de.ico",
     "slug": "adapter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 638,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
-    "dailyMinutesDown": {}
+    "time": 717,
+    "timeDay": 493,
+    "timeWeek": 717,
+    "timeMonth": 717,
+    "timeYear": 717,
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "dhs",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 114,
+      "2025-06-19": 1319,
       "2025-06-18": 1440,
       "2025-06-17": 810
     }
