@@ -9,15 +9,31 @@ sites:
     url: https://www.herzstiftung.de
   - name: ba
     url: https://beauftragte-herzstiftung.de
-  - name: IPv6 adapter
+  - name: Adapter Shop Items live
+    url: adapter.herzstiftung.de:8081/item
+    port: 8081
+  - name: Adapter 8081
     url: adapter.herzstiftung.de
     port: 8081
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
+  - name: Adapter 8082
+    url: adapter.herzstiftung.de
+    port: 8082
+    check: "tcp-ping"
+    ipv6: false
+  - name: Adapter 8083
+    url: adapter.herzstiftung.de
+    port: 8081
+    check: "tcp-ping"
+    ipv6: false
+    
 
 status-website:
   baseUrl: /repo # where "repo" is your repository name
-  name: MSUpptime
+  title: MSUpptime
+  footer: tasktracker
+  description: Status 
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
