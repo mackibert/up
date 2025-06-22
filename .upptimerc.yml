@@ -12,6 +12,14 @@ sites:
   - name: Adapter Shop Items live
     url: adapter.herzstiftung.de:8081/item
     port: 8081
+  - name: Keycloak
+    url: 93.90.204.222
+    port: 8080
+    check: "tcp-ping"
+  - name: Mosquitto
+    url: 93.90.204.222
+    port: 1883
+    check: "tcp-ping"
   - name: Adapter 8081
     url: adapter.herzstiftung.de
     port: 8081
