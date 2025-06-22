@@ -30,7 +30,7 @@ sites:
     
 
 status-website:
-  baseUrl: /repo # where "repo" is your repository name
+  baseUrl: /up # where "repo" is your repository name
   title: MSUpptime
   footer: tasktracker
   description: Status 
