@@ -78,19 +78,19 @@
     "url": "93.90.204.222",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "keycloak",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 109,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "status": "up",
+    "uptime": "96.69%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "96.69%",
+    "time": 136,
+    "timeDay": 126,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-06-23": 0
+      "2025-06-23": 80
     }
   },
   {
