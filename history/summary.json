@@ -42,9 +42,9 @@
     "url": "https://beauftragte-herzstiftung.de",
     "icon": "https://icons.duckduckgo.com/ip3/beauftragte-herzstiftung.de.ico",
     "slug": "ba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 680,
     "timeMonth": 697,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-25": 0
+    }
   },
   {
     "name": "Adapter Shop Items live",
@@ -79,13 +81,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "86.83%",
-    "uptimeDay": "83.58%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "86.83%",
-    "uptimeYear": "86.83%",
+    "uptime": "88.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.20%",
+    "uptimeMonth": "88.20%",
+    "uptimeYear": "88.20%",
     "time": 134,
-    "timeDay": 130,
+    "timeDay": 162,
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
