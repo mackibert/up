@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "74.58%",
+    "uptime": "74.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.94%",
-    "uptimeMonth": "74.58%",
-    "uptimeYear": "74.58%",
+    "uptimeWeek": "65.66%",
+    "uptimeMonth": "74.44%",
+    "uptimeYear": "74.44%",
     "time": 125,
     "timeDay": 0,
     "timeWeek": 100,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-07-03": 115,
+      "2025-07-03": 143,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 438,
@@ -141,9 +141,9 @@
     "url": "adapter.herzstiftung.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adapter-8082",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,7 +152,9 @@
     "timeWeek": 107,
     "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 0
+    }
   },
   {
     "name": "Adapter 8083",
