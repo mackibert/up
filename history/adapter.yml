@@ -1,7 +1,7 @@
 url: http://adapter.herzstiftung.de
-status: down
-code: 500
-responseTime: 363
-lastUpdated: 2025-07-23T23:00:40.678Z
+status: up
+code: 200
+responseTime: 343
+lastUpdated: 2025-07-24T05:35:11.555Z
 startTime: 2025-06-17T10:29:58.448Z
 generator: Upptime <https://github.com/upptime/upptime>
