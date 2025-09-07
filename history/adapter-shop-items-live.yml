@@ -1,7 +1,7 @@
 url: adapter.herzstiftung.de:8081/item
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-07T09:54:32.539Z
+status: up
+code: 200
+responseTime: 454
+lastUpdated: 2025-09-07T10:00:10.698Z
 startTime: 2025-06-22T04:00:00.201Z
 generator: Upptime <https://github.com/upptime/upptime>
